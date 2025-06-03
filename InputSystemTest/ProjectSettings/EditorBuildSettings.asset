@@ -1,0 +1,10 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 413dc98493375574fa4cc3cb7dceacf4, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 404eb4eafd3d14f41bab8cdbe485f37c, type: 3}
