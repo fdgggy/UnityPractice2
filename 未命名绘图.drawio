@@ -23,7 +23,7 @@
           <mxGeometry x="100" y="600" width="380" height="75" as="geometry" />
         </mxCell>
         <mxCell id="HGFAVMkTPXAVULa8MWvB-8" value="1.有专门的编辑器，有联机(Mirror)，有确定性同步&lt;div&gt;2.有源码，值得研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="640" y="600" width="350" height="80" as="geometry" />
+          <mxGeometry x="640" y="600" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
