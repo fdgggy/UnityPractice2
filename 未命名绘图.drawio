@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="pRRUgsxb1vLFD_V7el0t">
-    <mxGraphModel>
+    <mxGraphModel dx="1665" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;a style=&quot;text-wrap: nowrap; text-decoration-line: none; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 15px; font-weight: 600; background-color: rgb(255, 255, 255);&quot; data-za-detail-view-element_name=&quot;User&quot; class=&quot;UserLink-link&quot; target=&quot;_blank&quot; href=&quot;https://www.zhihu.com/people/stone-shi-47&quot;&gt;猴与花果山&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;https://zhuanlan.zhihu.com/p/663335854&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-3" value="InputToCommand&amp;nbsp; 收集按键命令" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-4" value="ActionController 初始化时把所有动作信息初始化，包括键盘摇杆指令所代表的动作。每帧遍历所有动作检测符合条件的动作，切换相应的动作" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-5" value="GameMain每帧检测处理每个角色的攻击和碰撞，命中盒子和受击盒子分别挂载在角色相应的部位，利用物理引擎的OnTriggerEnter缓存，然后遍历根据不同部位受击的优先级来判定生效的受击盒子。" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-6" value="缺点：&lt;div&gt;1.每个脚本单独Monobehavior驱动，Update时序不清楚时序&lt;/div&gt;&lt;div&gt;2.没有技能编辑器&lt;/div&gt;&lt;div&gt;3.只有基础框架&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;优点：&lt;/div&gt;&lt;div&gt;1.介绍动作游戏制作的文章特别详细&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="300" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
