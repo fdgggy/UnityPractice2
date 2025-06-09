@@ -19,6 +19,12 @@
         <mxCell id="HGFAVMkTPXAVULa8MWvB-6" value="缺点：&lt;div&gt;1.每个脚本单独Monobehavior驱动，Update时序不清楚时序&lt;/div&gt;&lt;div&gt;2.没有技能编辑器&lt;/div&gt;&lt;div&gt;3.只有基础框架&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;优点：&lt;/div&gt;&lt;div&gt;1.介绍动作游戏制作的文章特别详细&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="300" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-7" value="&lt;h1 style=&quot;box-sizing: inherit; margin: 0px 0px 12px; padding: 0px; font-size: 22px; color: rgb(33, 33, 33); line-height: 1.2; font-family: Inter, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Noto Sans JP&amp;quot;, &amp;quot;Noto Sans KR&amp;quot;, Roboto, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; data-reactid=&quot;300&quot; class=&quot;cfm2v&quot;&gt;Universal Fighting Engine 2&amp;nbsp;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="380" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="HGFAVMkTPXAVULa8MWvB-8" value="1.有专门的编辑器，有联机(Mirror)，有确定性同步&lt;div&gt;2.有源码，值得研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="350" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
